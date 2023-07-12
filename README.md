@@ -19,4 +19,4 @@ Call | 010-7157-8254 |
 
 ## 3. Ssafy 입과후 목표
 
-<img srg="http://bitly.ws/L9Ei" width="200" height="400">
+<img src="http://bitly.ws/L9Ei" width="200" height="400">
