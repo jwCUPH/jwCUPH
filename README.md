@@ -1,22 +1,11 @@
 
-# 자기소개서
+2017.03 ~ 2021.02 : 자동차공학사
+<img src="(https://upload.wikimedia.org/wikipedia/commons/1/1b/Seoultech_LOGO.png)" width="200" height="80">
 
-## 1. 신상정보 
-|구분|내용|비고|
-|---|---|---|
-이름 | 서준원 |
-나이 | 만25세 | 97년생
-주소 | 전남 순천시 | 
-MBTI | ISTJ | 
-Call | 010-7157-8254 |
+2021.03 ~ 2023.06 : ROTC 단기복무
+<img src="((https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ROKA_27th_Infantry_Division_Insignia.svg/375px-ROKA_27th_Infantry_Division_Insignia.svg.png
+)
 
-## 2. 뭐하는 사람일까
-- 2016.03 ~ 2021.02 : 대학생활  <br>
-┗ 기계자동차공학과 졸업 → 학부졸작으로 수소연료전지 성능해석 <br>
-- 2021.03 ~ 2023.06 : ROTC 단기복무 <br>
-┗ 정비소대장 x28개월 복무 <br>
-- 2023.07 ~ 현재 : ssafy 입과  <br>
-
-## 3. Ssafy 입과후 목표
-
+2023.07 ~ now : Ssafy 10기
+)" width="200" height="80">
 <img src="http://bitly.ws/L9Ei" width="200" height="80">
